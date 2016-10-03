@@ -1,0 +1,1 @@
+insert into user VALUES (101,12,'John');
